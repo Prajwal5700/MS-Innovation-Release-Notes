@@ -12,6 +12,35 @@ This repository contains detailed notes about the latest updates and modificatio
 - Changes to screenshots and visuals used in the lab
 
 ## Release Notes
+
+<details>
+  <summary>2026-04-13</summary>
+
+### Summary of Changes
+
+Minor updates were made across the lab to improve clarity, align with the latest UI changes in the Microsoft Foundry portal, and enhance the overall learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In Lab 1 : Note related to deployment of resources in the east us region has been removed in order to avoid the conflict mentioned in above steps. 
+  
+### Screenshot Updates
+ 
+ N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-13
+  
+### Testing Scope 
+
+-  End-to-end validation of resource provisioning, model deployment, portal navigation, and lab instructions to ensure accuracy and usability.
+---
+</details>
 <details>
   <summary>2026-03-12</summary>
 
