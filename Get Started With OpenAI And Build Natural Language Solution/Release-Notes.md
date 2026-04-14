@@ -26,7 +26,7 @@ N/A
 
 ### Content Changes
 
-- Removed the note from the Lab 1 which said about deploying resources in eastus.
+- In Lab 1 : Note related to deployment of resources in the east us region has been removed in order to avoid the conflict mentioned in above steps. 
   
 ### Screenshot Updates
  
