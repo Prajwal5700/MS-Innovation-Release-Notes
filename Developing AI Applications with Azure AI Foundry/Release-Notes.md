@@ -36,15 +36,18 @@ Updated the lab guide to ensure consistency in the UI experience and improve ove
   
 ### Screenshot Updates
 
-- Updated the screenshots to enhance clarity.
-- Screenshots updated are:
-  - Lab 2 -- Task 2 Step 3 and 4
-  - Lab 3 -- Task 2 Step 4, 5 and 6
-  - Lab 4 -- Task 1 - Step 10, 19 and 21
-  - Lab 4 -- Task 2 - Step 3, 6, 8, 9, 10, 11, 12, 13, 14, 19, 20, 25, and 30
-  - Lab 5 -- Task 1 - Step 3 and 6
-  - Lab 5 -- Task 2 - Step 1 and 7
-  - Lab 6 -- Task 1.1 & Task 1.2 - Step 4 and 3
+- Updated the screenshots to enhance clarity. Screenshots updated are:
+  * **Lab 2** – Task 2: Steps 3 and 4
+  * **Lab 3** – Task 2: Steps 4, 5, and 6
+  * **Lab 4**
+
+    * Task 1: Steps 10, 19, and 21
+    * Task 2: Steps 3, 6, 8, 9, 10, 11, 12, 13, 14, 19, 20, 25, and 30
+  * **Lab 5**
+
+    * Task 1: Steps 3 and 6
+    * Task 2: Steps 1 and 7
+  * **Lab 6** – Task 1.1 & Task 1.2: Steps 4 and 3
 
 ### Testing Notes
 
