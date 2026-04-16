@@ -32,7 +32,7 @@ N/A
 
 ### Content Changes
 
-N/A
+Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
   
 ### Screenshot Updates
 
