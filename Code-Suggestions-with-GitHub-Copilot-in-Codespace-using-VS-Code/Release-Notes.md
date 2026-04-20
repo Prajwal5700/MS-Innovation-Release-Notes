@@ -1,0 +1,210 @@
+# Code Suggestions with GitHub Copilot in Codespace using VS Code
+
+Welcome to the **Code Suggestions with GitHub Copilot in Codespace using VS Code** Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+ `Email Support: cloudlabs-support@spektrasystems.com`
+
+# Release Notes
+<details>
+  <summary>2026-04-14</summary>
+
+## Release Date: 2026-04-14
+
+### Summary of Changes
+
+Implemented clarity, structure, and usability improvements across the lab guide. Updates include refined GitHub sign-in and repository creation instructions, improved formatting and readability, restructuring of Task 3 for better learning flow, and addition of new screenshots to better guide users through the lab experience. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Task 1:**
+  - Clarified GitHub sign-in steps for better understanding.
+  - Updated repository creation instructions with an explicit note to select Owner as Enterprise
+- **Task 3:**
+  - Restructured Task 3 with simplified task heading and clearer flow
+  - Updated the devcontainer.json content to be used in the lab, as we were facing issues in accessing Codespace in VS Code. 
+  - Added task overview sections for each task and sub-tasks to improve context and guidance for learners 
+
+### Screenshot Updates
+
+- Revised the screenshots to align with the latest GitHub UI and content changes.
+- Screenshots updated are:
+  - Task 1: Step 3, Step 7, Step 14, Step 15, Step 24.
+  - Task 2: Step 5 (Newly added)
+  - Task 3: Step 3, Step 12 (Newly added) 
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-14
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab after updates. Verified improved clarity of instructions, correctness of updated Task 3 flow, and accuracy of newly added screenshots. Confirmed overall lab flow are working as expected.
+
+---
+</details>
+
+<details>
+  <summary>2026-02-19</summary>
+
+## Release Date: 2026-02-19
+
+### Summary of Changes
+
+Implemented minor updates such as improved UI screenshots and revised instructions to ensure greater clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Revised and updated few screenshots to align with the recent updates in the Visual Studio code user interface/CloudLabs UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-19
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab and revised the guide to incorporate the most recent UI updates.Verified the functionality of the validations.
+
+---
+</details>
+
+<details>
+  <summary>2025-11-17</summary>
+
+## Release Date: 2025-11-17
+
+The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+</details>
+
+<details>
+  <summary>2025-10-24</summary>
+
+## Release Date: 2025-10-24
+
+### Summary of Changes
+
+Implemented minor updates such as improved UI screenshots and revised instructions to ensure greater clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Revised and updated several screenshots to align with the recent updates in the GitHub user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-24
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab and revised the guide to incorporate the most recent UI updates.
+
+---
+</details>
+<details>
+  <summary>2025-08-21</summary>
+
+## Release Date: 2025-08-21
+
+### Summary of Changes
+
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated few clear screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-08-21
+
+### Testing Scope 
+
+ Conducted end-to-end architecture validation, RBAC/policy checks, and instruction enhancement.
+
+---
+</details>
+
+<details>
+  <summary>2025-07-10</summary>
+
+## Infrastructure Changes
+
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same.
+
+## Content Changes
+
+- **Change**: Updated the lab content to align with the latest UI changes, including revised screenshots and instructions.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-10
+- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Resolved Issues**: NA
+
+---
+</details>
+
+<details>
+  <summary>2025-06-02</summary>
+
+## Infrastructure Changes
+
+There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain the same. 
+
+## Content Changes
+
+- **Change**: The lab environment content has been updated to reflect the latest UI changes, including updated screenshots.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-30
+- **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Resolved Issues**: NA
+
+---
+</details>
+
